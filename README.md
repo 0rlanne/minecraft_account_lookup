@@ -1,7 +1,6 @@
 Table des Matières
 =
 
-* [Nous Soutenir](#Nous-Soutenir)
 
 * [Contributeurs](#Contributeurs)
 
@@ -17,19 +16,13 @@ Table des Matières
 
 
 
-Nous Soutenir
-=
-
-BTC: 1LvSfG69S1UBsQTrXobY7ZoJYAkvo2psKD
-
-
 
 Contributeurs
 =
 
- * ❤️ [H3L](https://github.com/lrhel) ❤
+ * ❤️ [Hoxtry](https://github.com/Hoxtry) ❤
 
- * Merci à [Kwizfreak](https://github.com/kwizfreak) pour avoir développé l'API sur le site [infos-numero.com](https://www.infos-numero.com)
+ * Merci à [Lasscat](https://github.com/lasscat) pour avoir développé l'API sur le site [Namemc.com](https://namemc.com)
 
 
 
