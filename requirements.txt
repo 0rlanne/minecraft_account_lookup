@@ -1,0 +1,8 @@
+Namemcpy
+Mojang
+Colorama
+Requests
+bs4
+datetime
+time
+socket
