@@ -4,9 +4,9 @@ Table des Matières
 
 * [Contributeurs](#Contributeurs)
 
-* [Read-Only](#ReadOnly)
+* [Read](#Read)
 
-* [LittleBrother](#LittleBrother)
+* [Le Programme](#Le-Programme)
 
 * [Disclaimer](#Disclaimer)
 
@@ -26,27 +26,25 @@ Contributeurs
 
 
 
-ReadOnly
+Read
 =
 
-Littlebrother est maintenant en **Read only**, il ne sera plus maintenu ni mis à jour et aucune contribution est possible.
+Le programme est maintenant en **Phase de teste**, il ne sera maintenu et aura des mises à jours et les contributions sont possible.
 
-On a décidé de passer LittleBrother en Read only par manque de temps pour le developpement et la maintenance. On travail sur un autre outil similaire. Merci pour les issues/PR constructif, merci à ceux qui nous ou soutenu.
-
-Vous pouvez soutenir financierement le prochain projet : **BTC:** `1LvSfG69S1UBsQTrXobY7ZoJYAkvo2psKD`.
+Vous pouvez soutenir financierement mon prochain projet : [**Paypal:**](https://www.paypal.com/paypalme/Hoxtry).
 
 
 
-LittleBrother
+Le Programme
 =
 
 
 
-LittleBrother est un outil de collectes d'informations (OSINT) qui vise à effectuer des recherches sur une personne française, suisse, luxembourgeoise ou belge. Il fournit divers modules qui permettent des recherches efficaces. LittleBrother ne requiert pas de clé API ni d'identifiant de connexion.
+Ce programme est a but scolaire et d'apprentissage, l'utilisation d'api et la modifications de ceux-ci (namemc) 
 
 
 
-![](https://i.ibb.co/YdvfVPw/Capture.png)
+![](https://media.discordapp.net/attachments/849326504584544256/849609641531932672/Capture_decran_2021-06-02_a_13.23.41.png)
 
 
 
