@@ -51,7 +51,7 @@ Ce programme est a but scolaire et d'apprentissage, l'utilisation d'api et la mo
 Disclaimer
 =
 
-LittleBrother a été développé pour faire des recherches sur soi-même et pour voir les informations privées et sensibles que l'on peut laisser derrière sur les réseaux sociaux. Je n'encourage en aucun cas l'utilisation de cet outil sur une autre personne que soi-même ou d'utiliser cet outil à mauvais escient. Les auteurs de LittleBrother ne peuvent etre tenu pour responsable de l'utilisation de son outil.
+Ce programme a ete cree pour un but educatif et scolaire, tout soucis lier a l'usage ne sera en aucun cas ma faute. cordialement
 
 
 
@@ -66,9 +66,9 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
 
     sudo apt install git python3 #sur les distributions utilisant APT (comme la famille Debian)
 
-    git clone https://github.com/Lulz3xploit/LittleBrother
+    git clone https://github.com/Hoxtry/minecraft_account_lookup
 
-    cd LittleBrother
+    cd minecraft_account_lookup
 
     python3 -m pip install -r requirements.txt
 
@@ -83,7 +83,7 @@ Dans le repertoire de LittleBrother, lancez cette commande pour pouvoir lancer L
 
 ```
 
-python3 LittleBrother.py
+python3 index.py
 
 ```
 
@@ -92,13 +92,13 @@ python3 LittleBrother.py
 Installation sur Windows
 =
 
-- 1. Telecharger [LittleBrother](https://github.com/lulz3xploit/LittleBrother/archive/master.zip)
+- 1. Telecharger [LittleBrother](https://github.com/Hoxtry/minecraft_account_lookup/archive/refs/heads/main.zip)
 
 - 2. Installez Python depuis le Store Windows
 
 - 4. Dezipper LittleBrother (master.zip)
 
-- 5. Ouvrez `CMD` et allez dans le repertoire **`LittleBrother-master`** via la commande `cd`.
+- 5. Ouvrez `CMD` et allez dans le repertoire **`minecraft_account_lookup`** via la commande `cd`.
 
      P.ex: 
 
@@ -106,7 +106,7 @@ Installation sur Windows
 
 cd Desktop\
 
-cd LittleBrother-master\
+cd minecraft_account_lookup\
 
 ``` 
 
@@ -127,7 +127,7 @@ Lancer LittleBrother depuis Windows:
 
 ```
 
-python3 LittleBrother.py
+python3 index.py
 
 ```
 
@@ -136,9 +136,9 @@ python3 LittleBrother.py
 Discord
 =
 
-~~Si vous avez des questions, des idées, des problèmes concernant LittleBrother ou si vous voulez juste suivre l'avancement de ce projet.~~
+Si vous avez des questions, des idées, des problèmes concernant ce programme ou si vous voulez juste suivre l'avancement de ce projet.
 
-Momentanément clos.
+H0xtry#8126
 
 Compatible
 =
@@ -161,13 +161,19 @@ Python version:
 Modules Python
 =
 
-- requests
+- Namemcpy
 
+- Mojang
+
+- Colorama
+
+- Requests
+ 
 - bs4
 
-- terminaltables
+- datetime
 
-- colorama
+- time 
 
 
 
@@ -176,47 +182,14 @@ Fonctionnalites
 
  - Lookup:
 
-	- Phone lookup
+	- minecraft uuid
 
-	- Email lookup
+	- minecraft name history 
 
-	- Last name / First name lookup
+	- namemc friends
 
-	- Surname lookup
+	- namemc favorit server
 
-	- Addresse lookup
-
-	- Mail ip locator
-
-	- Ip locator
-
-	- Bssid locator
-
-	- Exif read
-
-	- Google search
-
-	- Twitter
-
-	- Instagram
-
-	- Facebook
-
-	- LinkedIn employee search (New !)
-
-	- Hash Bruteforce (New !)
-
-
-
- - Autre outils:
-
-
-
-	- Hash Bruteforce
-
-
-
-- Profiler
 	- Profiler an profile
 
 	- Database management
